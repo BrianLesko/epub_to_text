@@ -1,6 +1,6 @@
 
 # Text Extraction from an Epub file
-This code implements text parsing from an Electronic Publishing format. This implementation is written in [Pure Python]() - created for Learning Purposes.
+This code implements text parsing from an Electronic Publishing format. This implementation is written in [Pure Python](https://github.com/BrianLesko/epub_to_text/blob/main/app.py) - created for Learning Purposes.
 
 
 &nbsp;
