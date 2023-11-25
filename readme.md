@@ -25,7 +25,7 @@ This code uses the following libraries:
 Run the following commands:
 ```
 pip install --upgrade streamlit zipfile bs4
-streamlit run https://raw.githubusercontent.com/BrianLesko/epub_to_text/main/app.py?token=GHSAT0AAAAAACEZSXSJ3IPS32VQ6MRFYCC2ZLCFT7A
+streamlit run https://raw.githubusercontent.com/BrianLesko/epub_to_text/main/app.py?token=GHSAT0AAAAAACEZSXSIC7IMS2W5EVZKLS7SZLCFV4Q
 ```
 
 This will start the local Streamlit server, and you can access the chatbot by opening a web browser and navigating to `http://localhost:8501`.
